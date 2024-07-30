@@ -1,0 +1,12 @@
+.main {
+    display: flex;
+    position: relative;
+    transform: translate(20%, 50%);
+}
+
+
+.splide__pagination button{
+    border-radius: 0px;
+    width: 20px;
+}
+
